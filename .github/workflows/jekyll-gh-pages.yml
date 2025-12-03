@@ -28,7 +28,7 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
-          destination: ./dist
+          destination: ./
 
       - name: Generate markdown index JSON
         run: |
