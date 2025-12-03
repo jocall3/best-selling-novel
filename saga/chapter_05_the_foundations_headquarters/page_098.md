@@ -1,0 +1,13 @@
+## Page 98: The Hall of Contradictions
+
+The corridor ahead, designed by Agent 10, was unlike any other in the Foundation's headquarters. It was a long, narrow passage, its walls and ceiling entirely clad in what appeared to be polished, seamless mirrors. Yet, as you stepped across the threshold, a subtle unease began to prickle.
+
+Your reflection in the first panel was perfectly normal, if a little too sharp. But as you took another step, passing into the field of the next mirror, a flicker of distortion caught your eye. You paused, looking back. In the previous mirror, you were still your usual self. But in the current one, your shoulders seemed broader, your posture slightly more imposing, as if you'd gained an inch or two in height. You blinked, and the illusion held.
+
+Moving on, the next mirror presented a different anomaly. Your shirt, which you distinctly remembered putting on as a muted grey, now appeared a vibrant, almost electric blue in the reflection. You glanced down at your actual shirt – still grey. The mirror shimmered, the blue unwavering.
+
+A few more steps, and the reflections grew bolder in their defiance of reality. In one, your hair was a shock of fiery red, though you knew it to be brown. In another, a faint, almost imperceptible scar traced a line across your cheek, a mark you'd never possessed. The air in the hall seemed to thicken, the silence amplifying the disorienting visual cacophony.
+
+Then came the truly bizarre. As you passed a particularly large, ornate mirror set into the wall, your breath hitched. Staring back at you, with beady black eyes and a striped snout, was a stout, furry badger. It twitched its nose, its reflection mimicking your own startled movement with uncanny precision. You instinctively reached for your face, feeling only your human skin, your human nose. Yet, in the mirror, the badger remained, a perfect, detailed rendition of the woodland creature, where you should have been.
+
+The next mirror showed you as a towering, skeletal figure, then a child, then a shimmering, indistinct blur. Each panel offered a new, often contradictory, version of yourself or the world around you. The floor beneath your feet seemed to undulate in some reflections, while in others, the ceiling stretched into an infinite void. It was a deliberate assault on perception, a constant, unsettling reminder that reality, even your own identity, could be fluid, malleable, and utterly unreliable. Agent 10's "Hall of Contradictions" was a masterclass in psychological disorientation, designed not just to confuse, but to subtly erode the very foundations of what one believed to be true.
