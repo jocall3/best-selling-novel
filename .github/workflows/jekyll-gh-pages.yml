@@ -28,7 +28,7 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
-          destination: ./
+          destination: ./dist
 
       - name: Ensure markdown index exists
         run: |
@@ -44,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./
+          path: ./disdt
 
   deploy:
     runs-on: ubuntu-latest
