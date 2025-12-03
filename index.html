@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Documentation Viewer</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, sans-serif;
+      background: #f5f5f5;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    #tabs {
+      display: flex;
+      background: #222;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+
+    .tab {
+      padding: 14px 20px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .tab.active {
+      background: #444;
+      font-weight: bold;
+    }
+
+    #content {
+      flex: 1;
+      padding: 30px;
+      overflow-y: auto;
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    pre, code {
+      background: #eee;
+      padding: 6px 9px;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+  </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+  <div id="tabs"></div>
+  <div id="content">Scanning markdown…</div>
+
+  <script>
+    let markdownFiles = [];
+
+    async function loadIndex() {
+      try {
+        const res = await fetch("md-files.json");
+        markdownFiles = await res.json();
+      } catch (err) {
+        document.getElementById("content").textContent =
+          "Couldn't load md-files.json. Build workflow must generate it.";
+      }
+    }
+
+    async function loadMarkdown(path) {
+      const res = await fetch(path);
+      const text = await res.text();
+      document.getElementById("content").innerHTML = marked.parse(text);
+    }
+
+    function buildTabs() {
+      const tabs = document.getElementById("tabs");
+      tabs.innerHTML = "";
+
+      markdownFiles.forEach((file, i) => {
+        const tab = document.createElement("div");
+        tab.className = "tab";
+        tab.textContent = file.replace(/^.*\//, "");
+        tab.onclick = () => activateTab(i);
+        tabs.appendChild(tab);
+      });
+    }
+
+    async function activateTab(index) {
+      document.querySelectorAll(".tab").forEach((t, i) => {
+        t.classList.toggle("active", i === index);
+      });
+
+      loadMarkdown(markdownFiles[index]);
+    }
+
+    (async () => {
+      await loadIndex();
+      buildTabs();
+      if (markdownFiles.length > 0) activateTab(0);
+      else document.getElementById("content").textContent = "No markdown files found.";
+    })();
+  </script>
+</body>
+</html>
