@@ -1,4 +1,4 @@
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Jekyll with GitHub Pages
 
 on:
   push:
@@ -10,15 +10,11 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Pages
@@ -27,19 +23,15 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./dist
+          source: ./content
           destination: ./dist
 
-      - name: Ensure markdown index exists
+      - name: Make md-files.json
         run: |
-          # If you already have md-files.json in root, keep it there
-          # Otherwise, generate it
-          if [ ! -f md-files.json ]; then
-            find manuscript saga docs content -type f -name "*.md" \
-              | sed 's|^\./||' \
-              | jq -R . | jq -s . \
-              > md-files.json
-          fi
+          find content -type f -name "*.md" \
+            | sed 's|^\./||' \
+            | jq -R . | jq -s . \
+            > md-files.json
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
