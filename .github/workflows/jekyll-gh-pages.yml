@@ -30,16 +30,16 @@ jobs:
           source: ./
           destination: ./
 
-      - name: Generate markdown index JSON
+      - name: Ensure markdown index exists
         run: |
-          # Create JSON listing all markdown files
-          find . -type f -name "*.md" \
-            | sed 's|^\./||' \
-            | jq -R . | jq -s . \
-            > md-files.json
-
-          # Move it into the dist directory
-          mv md-files.json ./dist/md-files.json
+          # If you already have md-files.json in root, keep it there
+          # Otherwise, generate it
+          if [ ! -f md-files.json ]; then
+            find manuscript saga docs content -type f -name "*.md" \
+              | sed 's|^\./||' \
+              | jq -R . | jq -s . \
+              > md-files.json
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
