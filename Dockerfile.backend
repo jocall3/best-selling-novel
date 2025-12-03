@@ -1,0 +1,42 @@
+# Stage 1: Build Stage (for installing dependencies)
+FROM node:20-alpine AS builder
+
+# Set the working directory
+WORKDIR /app
+
+# Copy package.json and package-lock.json (or yarn.lock)
+# This allows caching of the dependency installation layer
+COPY package*.json ./
+
+# Install dependencies
+# Use --production if only runtime dependencies are needed, otherwise install all
+RUN npm install
+
+# Copy the rest of the application source code
+COPY . .
+
+# If the backend requires a build step (e.g., TypeScript compilation), uncomment the following:
+# RUN npm run build
+
+# Stage 2: Production Stage (smaller image for deployment)
+FROM node:20-alpine AS production
+
+# Set the working directory
+WORKDIR /app
+
+# Copy only necessary files from the builder stage
+# Copy installed node_modules
+COPY --from=builder /app/node_modules ./node_modules
+
+# Copy application source code (assuming no build step, or copying built files if a build step was used)
+# If using TypeScript/build step, adjust this to copy the compiled output directory (e.g., /app/dist)
+COPY --from=builder /app/package*.json ./
+COPY --from=builder /app/src ./src
+COPY --from=builder /app/index.js ./ # Assuming the entry file is index.js
+
+# Expose the port the application runs on
+EXPOSE 3000
+
+# Define the command to run the application
+# Use 'npm start' if defined in package.json, or 'node index.js'
+CMD ["node", "src/index.js"]
