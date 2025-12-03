@@ -32,10 +32,14 @@ jobs:
 
       - name: Generate markdown index
         run: |
+          # Write JSON in a temp file where we have full permissions
           find . -type f -name "*.md" \
             | sed 's|^\./||' \
             | jq -R . | jq -s . \
-            > ./_site/md-files.json
+            > md-files.json
+
+          # Move into _site/ after creation (moving is allowed)
+          mv md-files.json ./_site/md-files.json
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
