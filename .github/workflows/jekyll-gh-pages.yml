@@ -40,8 +40,6 @@ jobs:
       # 5️⃣ Copy everything needed into dist/
       - name: Prepare dist for deployment
         run: |
-          mkdir -p dist
-          cp index.html dist/index.html
           cp md-files.json dist/md-files.json
           cp -r content/* dist/
 
