@@ -24,7 +24,7 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./content
-          destination: ./dist
+          destination: ./best-selling-novel
 
       - name: Make md-files.json
         run: |
