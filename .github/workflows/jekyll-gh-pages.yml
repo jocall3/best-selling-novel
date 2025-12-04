@@ -14,36 +14,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2️⃣ Setup Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # 3️⃣ Build with Jekyll (optional if your Markdown is plain)
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./content
           destination: ./dist
 
-      # 4️⃣ Generate md-files.json
       - name: Make md-files.json
         run: |
           find content -type f -name "*.md" \
             | sed 's|^\./||' \
             | jq -R . | jq -s . \
             > md-files.json
-
-      # 5️⃣ Copy everything needed into dist/
-      - name: Prepare dist for deployment
-        run: |
-          cp md-files.json dist/md-files.json
-          cp -r content/* dist/
-
-      # 6️⃣ Upload artifact for Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -57,7 +45,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      # 7️⃣ Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
