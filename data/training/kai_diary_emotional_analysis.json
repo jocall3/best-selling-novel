@@ -1,0 +1,1804 @@
+{
+  "diary_entries": [
+    {
+      "page": 201,
+      "date": "1998-07-15",
+      "entry": "Today was a good day. Mom took me to the park and I got to swing really high. I almost touched the clouds! Then we had ice cream. Vanilla, my favorite. I told Dad a joke about a skeleton, but he didn't laugh. He said it was too 'corny'. I don't get it. Maybe I'll try a different joke tomorrow.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.1,
+        "surprise": 0.2,
+        "anticipation": 0.3,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["park", "swing", "ice cream", "vanilla", "joke", "skeleton", "corny"]
+    },
+    {
+      "page": 202,
+      "date": "1998-07-16",
+      "entry": "School was okay. Mrs. Davison gave us a pop quiz in math. I think I did alright, but I'm worried I missed a few. What if I get a bad grade? Mom will be disappointed. I wish I was better at math. I tried telling my friend Leo a joke about a pencil, but he just looked at me funny. Maybe I should stick to drawing.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.5,
+        "surprise": 0.1,
+        "anticipation": 0.2,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.4
+      },
+      "keywords": ["school", "math", "quiz", "worried", "disappointed", "pencil", "joke", "drawing"]
+    },
+    {
+      "page": 203,
+      "date": "1998-07-17",
+      "entry": "Rainy day. Stuck inside. I read a whole chapter of my adventure book. It was about pirates! They found a treasure chest full of gold. I wish I could find a treasure chest. Maybe I'll go on an adventure in my backyard tomorrow if the sun comes out. I told my teddy bear a joke about a pirate, but he just sat there. He's not a very good audience.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.6,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.5,
+        "trust": 0.6,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["rainy", "inside", "book", "pirates", "treasure", "adventure", "backyard", "teddy bear", "joke"]
+    },
+    {
+      "page": 204,
+      "date": "1998-07-18",
+      "entry": "The sun is out! I went to the backyard and pretended to be a pirate captain. I found a shiny rock and decided it was a jewel. I buried it like treasure. Then I tried to tell my dog, Buster, a joke about a dog. He just wagged his tail and licked my face. I think he liked it. Or maybe he just wanted a treat.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["sun", "backyard", "pirate", "treasure", "rock", "jewel", "dog", "Buster", "joke"]
+    },
+    {
+      "page": 205,
+      "date": "1998-07-19",
+      "entry": "My cousin Sarah came over. She's older and knows all the cool games. We played hide-and-seek. I hid really well in the closet, but she found me eventually. She told me a joke about a computer that was really funny. I didn't get all of it, but I laughed anyway. I hope she comes back soon. It's more fun when she's here.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["cousin", "Sarah", "games", "hide-and-seek", "closet", "computer", "joke", "fun"]
+    },
+    {
+      "page": 206,
+      "date": "1998-07-20",
+      "entry": "Mom said we're going to the zoo tomorrow! I'm so excited! I want to see the lions and the monkeys. I hope the monkeys do funny things. I practiced telling a joke about a zoo animal, but I'm not sure if it's good enough. What if no one laughs? That would be embarrassing.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.2,
+        "surprise": 0.3,
+        "anticipation": 0.7,
+        "trust": 0.6,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["zoo", "excited", "lions", "monkeys", "joke", "embarrassing"]
+    },
+    {
+      "page": 207,
+      "date": "1998-07-21",
+      "entry": "The zoo was amazing! The lions roared, and the monkeys were so silly. One of them threw a banana peel! I told my joke about the elephant to Dad, and he actually laughed this time! He said it was a good one. I felt so proud. I think I'm getting better at telling jokes.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.9,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.3,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.1
+      },
+      "keywords": ["zoo", "lions", "monkeys", "banana peel", "elephant", "joke", "proud", "laughed"]
+    },
+    {
+      "page": 208,
+      "date": "1998-07-22",
+      "entry": "Today was a bit boring. I had to do chores. I had to clean my room. It was messy. I found an old toy car under my bed. It was broken. I felt a little sad. I tried to make myself feel better by thinking of a joke, but I couldn't think of a good one. Maybe I'm running out of jokes.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.2,
+        "sadness": 0.4,
+        "anger": 0.0,
+        "fear": 0.1,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.3,
+        "disgust": 0.1,
+        "neutral": 0.5
+      },
+      "keywords": ["chores", "clean", "room", "messy", "toy car", "broken", "sad", "joke"]
+    },
+    {
+      "page": 209,
+      "date": "1998-07-23",
+      "entry": "My dad took me to the library. I got a new book about space. Rockets and planets! It's so cool. I can't wait to read it. I told Dad a joke about a planet, and he said it was 'out of this world'. I think he liked it. I'm glad he likes my jokes. It makes me feel happy.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.6,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["library", "book", "space", "rockets", "planets", "joke", "out of this world", "happy"]
+    },
+    {
+      "page": 210,
+      "date": "1998-07-24",
+      "entry": "I had a dream last night that I could fly. It was amazing! I flew over my house and saw everything. Then I woke up and I was still in my bed. It was a little disappointing. I told Mom about the dream, and she said maybe I'll be an astronaut one day. That would be so cool!",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.6,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.5,
+        "anticipation": 0.7,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["dream", "fly", "house", "disappointing", "astronaut", "cool"]
+    },
+    {
+      "page": 211,
+      "date": "1998-07-25",
+      "entry": "Today was a bit scary. There was a big thunderstorm. The lightning was so bright, and the thunder was so loud. I hid under my covers. Mom came and sat with me. She told me it was just the sky making noise. I still felt a little worried. I wish I wasn't so scared of storms.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.8,
+        "surprise": 0.2,
+        "anticipation": 0.1,
+        "trust": 0.6,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["thunderstorm", "lightning", "thunder", "scary", "hiding", "worried", "fear"]
+    },
+    {
+      "page": 212,
+      "date": "1998-07-26",
+      "entry": "The storm is over. The sun is shining again. Everything smells fresh. I went outside and saw a rainbow! It was so beautiful. I felt much better. I told Dad a joke about a rainbow, and he said it was 'brilliant'. I think he's starting to like my jokes more than I do!",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.3,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["storm over", "sun", "fresh", "rainbow", "beautiful", "better", "joke", "brilliant"]
+    },
+    {
+      "page": 213,
+      "date": "1998-07-27",
+      "entry": "I started building a fort in my room. I used blankets and pillows. It's my secret hideout. I brought my favorite toys in there. It feels safe and cozy. I told my stuffed dinosaur a joke, but he just stared at me with his button eyes. He's not very talkative.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.6,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.3,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["fort", "blankets", "pillows", "secret hideout", "toys", "safe", "cozy", "stuffed dinosaur", "joke"]
+    },
+    {
+      "page": 214,
+      "date": "1998-07-28",
+      "entry": "Mom took me to the grocery store. It was boring. I just wanted to go home and play in my fort. I saw a lady with a really big hat. It made me giggle. I tried to tell her a joke, but she didn't hear me. Maybe I should only tell jokes to people who can hear me.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["grocery store", "boring", "fort", "hat", "giggle", "joke"]
+    },
+    {
+      "page": 215,
+      "date": "1998-07-29",
+      "entry": "I learned a new song on the piano. It's a happy song. I played it for Dad, and he tapped his foot. He said I was getting really good. I felt proud. I told him a joke after the song, and he laughed so hard he snorted! That was funny.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.3,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["piano", "song", "happy", "foot tapping", "proud", "joke", "snorted", "funny"]
+    },
+    {
+      "page": 216,
+      "date": "1998-07-30",
+      "entry": "Today I felt a little bit lonely. My best friend, Leo, is on vacation. I miss playing with him. I sat in my fort and talked to my toys. I told them jokes, but they didn't say anything back. I wish Leo was here. It's not as fun by myself.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.2,
+        "sadness": 0.5,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.2,
+        "trust": 0.5,
+        "disgust": 0.0,
+        "neutral": 0.4
+      },
+      "keywords": ["lonely", "friend", "Leo", "vacation", "fort", "toys", "jokes", "miss"]
+    },
+    {
+      "page": 217,
+      "date": "1998-07-31",
+      "entry": "Mom baked cookies today! Chocolate chip, my favorite. The smell was so good. We ate them warm. It made me feel happy. I told Mom a joke about cookies, and she said it was 'crumb-y'. I don't think she liked it very much. Maybe I should stick to jokes about animals.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.3,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["cookies", "chocolate chip", "favorite", "smell", "happy", "joke", "crumb-y"]
+    },
+    {
+      "page": 218,
+      "date": "1998-08-01",
+      "entry": "I went to the park with Dad. We played catch. I'm getting better at catching the ball. Dad said I have good reflexes. I told him a joke about a baseball player, and he laughed. He said it was a 'home run'. I like it when he says that.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["park", "catch", "ball", "reflexes", "baseball player", "joke", "home run"]
+    },
+    {
+      "page": 219,
+      "date": "1998-08-02",
+      "entry": "It's my birthday next week! I'm so excited. I hope I get a new bike. I've been practicing my jokes for my friends. I want to make them laugh. I'm a little nervous too. What if they don't like my jokes? What if they don't like me?",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.3,
+        "surprise": 0.4,
+        "anticipation": 0.8,
+        "trust": 0.6,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["birthday", "excited", "bike", "jokes", "friends", "nervous", "fear"]
+    },
+    {
+      "page": 220,
+      "date": "1998-08-03",
+      "entry": "I helped Mom plant flowers in the garden. It was fun getting my hands dirty. We planted red and yellow flowers. They look so pretty. I told Mom a joke about a flower, and she said it was 'blooming' good. I think she's getting better at jokes too!",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.6,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.3,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["garden", "flowers", "planting", "dirty hands", "pretty", "joke", "blooming"]
+    },
+    {
+      "page": 221,
+      "date": "1998-08-04",
+      "entry": "I had a nightmare last night. I was being chased by a monster. It was really scary. I woke up crying. Dad came and hugged me. He told me it was just a bad dream. I still felt shaky. I wish I didn't have nightmares. They make me feel so anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.3,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["nightmare", "monster", "scary", "crying", "hug", "bad dream", "anxious"]
+    },
+    {
+      "page": 222,
+      "date": "1998-08-05",
+      "entry": "Today was much better. I played with my action figures. They went on an adventure to save the world. I made them say funny things. I told my mom a joke about a superhero, and she said it was 'super'. I'm glad I can make her laugh.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["action figures", "adventure", "superhero", "joke", "super", "laugh"]
+    },
+    {
+      "page": 223,
+      "date": "1998-08-06",
+      "entry": "I'm practicing my handwriting. It's hard to make the letters look neat. Some of them are wobbly. I wish my handwriting was as good as my drawings. I told my pencil a joke, but it didn't write back. I guess pencils aren't very good at jokes.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.2,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["handwriting", "neat", "wobbly", "drawings", "pencil", "joke"]
+    },
+    {
+      "page": 224,
+      "date": "1998-08-07",
+      "entry": "We went to the beach! The sand was warm, and the water was cool. I built a sandcastle. It was the best sandcastle ever. I saw a seagull and told it a joke. It just squawked at me. I think seagulls don't understand jokes.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["beach", "sand", "water", "sandcastle", "seagull", "joke"]
+    },
+    {
+      "page": 225,
+      "date": "1998-08-08",
+      "entry": "I'm feeling a bit anxious about my birthday party. What if no one comes? What if they don't like the games I planned? I keep thinking about all the things that could go wrong. I wish I could just be excited and not worried.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.6,
+        "surprise": 0.2,
+        "anticipation": 0.4,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.4
+      },
+      "keywords": ["anxious", "birthday party", "worried", "games", "fear"]
+    },
+    {
+      "page": 226,
+      "date": "1998-08-09",
+      "entry": "My birthday party was today! It was so much fun! All my friends came. We played games and ate cake. I got a new bike! It's red and shiny. I told my friends a joke, and they all laughed! It was the best feeling ever. I'm so happy.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.9,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.5,
+        "anticipation": 0.3,
+        "trust": 0.9,
+        "disgust": 0.0,
+        "neutral": 0.1
+      },
+      "keywords": ["birthday party", "fun", "friends", "cake", "bike", "joke", "laughed", "happy"]
+    },
+    {
+      "page": 227,
+      "date": "1998-08-10",
+      "entry": "I rode my new bike all around the neighborhood. It's so fast! I felt like I was flying. I told a dog I passed a joke, but it just barked. I think dogs are not good joke listeners. But I don't care, I'm too happy about my bike.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["bike", "riding", "neighborhood", "fast", "flying", "dog", "joke", "happy"]
+    },
+    {
+      "page": 228,
+      "date": "1998-08-11",
+      "entry": "I'm learning about dinosaurs in school. They are so big and amazing! I wish I could see a real dinosaur. I told my teacher a joke about a dinosaur, and she smiled. She said it was a 'roaring' good joke. I like making my teacher smile.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["dinosaurs", "school", "big", "amazing", "teacher", "joke", "roaring"]
+    },
+    {
+      "page": 229,
+      "date": "1998-08-12",
+      "entry": "I tried to draw a dinosaur, but it didn't look very good. It looked more like a lumpy potato with legs. I felt a little frustrated. I told my drawing a joke, but it didn't laugh. I guess drawings can't laugh. I wish I was better at drawing.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.2,
+        "sadness": 0.3,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.3,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["drawing", "dinosaur", "lumpy potato", "frustrated", "joke"]
+    },
+    {
+      "page": 230,
+      "date": "1998-08-13",
+      "entry": "Mom and I went to the farmer's market. There were so many colorful fruits and vegetables. I tried a new fruit called a mango. It was sweet and juicy. I told the farmer a joke about a fruit, and he chuckled. He said it was a 'grape' joke. I like meeting new people.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["farmer's market", "fruits", "vegetables", "mango", "farmer", "joke", "grape"]
+    },
+    {
+      "page": 231,
+      "date": "1998-08-14",
+      "entry": "I'm worried about starting a new school year soon. I don't know anyone in my new class. What if they don't like me? What if I can't make new friends? I wish I could stay in my old school forever. It feels so safe there.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.7,
+        "surprise": 0.1,
+        "anticipation": 0.3,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.4
+      },
+      "keywords": ["worried", "school year", "new class", "friends", "fear", "safe"]
+    },
+    {
+      "page": 232,
+      "date": "1998-08-15",
+      "entry": "Dad took me to a magic show. It was amazing! The magician made things disappear and reappear. I felt so amazed. I asked him how he did it, but he just winked. I told him a joke about a rabbit, and he said it was 'magical'. I love magic!",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.7,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["magic show", "amazing", "disappear", "reappear", "amazed", "rabbit", "joke", "magical"]
+    },
+    {
+      "page": 233,
+      "date": "1998-08-16",
+      "entry": "I'm practicing my multiplication tables. They are hard! I keep getting them wrong. It makes me feel a bit silly. I told my math book a joke, but it didn't answer. I guess math books are not very funny. I wish math was easier.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.2,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.3,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["multiplication", "tables", "hard", "silly", "math book", "joke"]
+    },
+    {
+      "page": 234,
+      "date": "1998-08-17",
+      "entry": "We went camping! It was so much fun. We slept in a tent and told stories around the campfire. The stars were so bright. I saw a shooting star! I made a wish. I told my dad a joke about camping, and he said it was 'tent-astic'. I love camping trips.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["camping", "tent", "stories", "campfire", "stars", "shooting star", "joke", "tent-astic"]
+    },
+    {
+      "page": 235,
+      "date": "1998-08-18",
+      "entry": "I found a spider in my room today. It was big and hairy. I got really scared and jumped on my bed. Mom came and got rid of it. I felt relieved, but still a little shaky. I wish spiders weren't so creepy. They make me feel so anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.2,
+        "anticipation": 0.1,
+        "trust": 0.6,
+        "disgust": 0.2,
+        "neutral": 0.3
+      },
+      "keywords": ["spider", "scared", "jumped", "relieved", "shaky", "creepy", "anxious"]
+    },
+    {
+      "page": 236,
+      "date": "1998-08-19",
+      "entry": "I'm learning to ride my bike without training wheels! It's hard. I keep falling. I scraped my knee. It hurts a little. But I'm determined to learn. I told my bike a joke, but it didn't laugh. I guess bikes don't tell jokes.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.1,
+        "surprise": 0.1,
+        "anticipation": 0.4,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.5
+      },
+      "keywords": ["bike", "training wheels", "falling", "scraped knee", "determined", "joke"]
+    },
+    {
+      "page": 237,
+      "date": "1998-08-20",
+      "entry": "I finally learned to ride my bike without training wheels! I can do it! I rode all the way to the park by myself. It felt amazing! I felt so proud and happy. I told my bike a joke about being free, and I think it understood. Or maybe I'm just happy.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.9,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.3,
+        "trust": 0.9,
+        "disgust": 0.0,
+        "neutral": 0.1
+      },
+      "keywords": ["bike", "learned", "park", "amazing", "proud", "happy", "free", "joke"]
+    },
+    {
+      "page": 238,
+      "date": "1998-08-21",
+      "entry": "I'm starting to feel a bit nervous about school again. What if the teacher is mean? What if the other kids don't want to play with me? I wish I could just stay home and play. But Mom says school is important.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.6,
+        "surprise": 0.1,
+        "anticipation": 0.3,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.4
+      },
+      "keywords": ["nervous", "school", "teacher", "kids", "play", "fear"]
+    },
+    {
+      "page": 239,
+      "date": "1998-08-22",
+      "entry": "Today was my first day of the new school. It wasn't as bad as I thought! My teacher is nice, and I met a new friend named Emily. We played together at recess. I told her a joke about a talking dog, and she laughed! I think I'm going to like this school.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.6,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["first day", "school", "teacher", "friend", "Emily", "recess", "talking dog", "joke", "laughed"]
+    },
+    {
+      "page": 240,
+      "date": "1998-08-23",
+      "entry": "I'm learning about the planets in science class. It's so interesting! Mars is red, and Jupiter is big. I told Emily a joke about space, and she thought it was funny. We laughed a lot. I'm glad I made a new friend. It makes school less scary.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["planets", "science class", "Mars", "Jupiter", "space", "joke", "friend", "Emily", "laughed"]
+    },
+    {
+      "page": 241,
+      "date": "1998-08-24",
+      "entry": "I had a little argument with Emily today. We both wanted to play with the same toy. I got a little angry. She got a little sad. We didn't talk for a while. I wish we hadn't argued. I don't like it when my friends are mad at me.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.4,
+        "anger": 0.3,
+        "fear": 0.1,
+        "surprise": 0.0,
+        "anticipation": 0.1,
+        "trust": 0.3,
+        "disgust": 0.0,
+        "neutral": 0.4
+      },
+      "keywords": ["argument", "toy", "angry", "sad", "friends", "mad"]
+    },
+    {
+      "page": 242,
+      "date": "1998-08-25",
+      "entry": "Emily and I made up. We apologized to each other. We played with the toy together. It was much better. I told her a joke about making up, and she giggled. I'm glad we're friends again. Friendship is important.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.3,
+        "trust": 0.9,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["made up", "apologized", "played together", "joke", "giggled", "friends", "friendship"]
+    },
+    {
+      "page": 243,
+      "date": "1998-08-26",
+      "entry": "I'm practicing my reading. Some of the words are tricky. I have to sound them out. It takes a long time. I wish I could read faster. I told my book a joke, but it just sat there. Books are not very responsive.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.2,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["reading", "tricky words", "sound out", "faster", "book", "joke"]
+    },
+    {
+      "page": 244,
+      "date": "1998-08-27",
+      "entry": "Today we had a fire drill at school. It was loud! We had to go outside. I wasn't scared, but it was a bit confusing. I told Emily a joke about fire, and she said it was 'hot'. I think she's getting good at jokes too.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.5,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.1,
+        "surprise": 0.3,
+        "anticipation": 0.2,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["fire drill", "school", "loud", "outside", "confusing", "fire", "joke", "hot"]
+    },
+    {
+      "page": 245,
+      "date": "1998-08-28",
+      "entry": "I'm learning about animals in science. I love learning about animals. My favorite is the elephant. They are so big and strong. I told my dad a joke about an elephant, and he laughed so hard he almost fell over! It was so funny.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.3,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["animals", "science", "elephant", "big", "strong", "joke", "laughed", "funny"]
+    },
+    {
+      "page": 246,
+      "date": "1998-08-29",
+      "entry": "I'm feeling a bit down today. I miss my old friends from my old school. I hope they are doing okay. I wish I could see them. I told my teddy bear a joke, but he just sat there. He's not very good company when I'm sad.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.2,
+        "sadness": 0.6,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.5,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["down", "miss", "old friends", "sad", "teddy bear", "joke"]
+    },
+    {
+      "page": 247,
+      "date": "1998-08-30",
+      "entry": "Mom took me to the playground. I went on the swings and the slide. It was fun. I met some new kids there. I told them a joke about a playground, and they laughed! It felt good to make new friends. I'm not so sad anymore.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["playground", "swings", "slide", "fun", "new kids", "joke", "laughed", "friends"]
+    },
+    {
+      "page": 248,
+      "date": "1998-08-31",
+      "entry": "I'm learning about shapes in math. Circles, squares, triangles. It's interesting. I told Emily a joke about a shape, and she said it was 'acute' joke. I think she's getting really good at jokes. I like learning with her.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.6,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.4,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["shapes", "math", "circles", "squares", "triangles", "joke", "acute", "friend", "Emily"]
+    },
+    {
+      "page": 249,
+      "date": "1998-09-01",
+      "entry": "Today was a bit scary. I had to give a presentation in front of the class. I was so nervous. My hands were shaking. But I remembered my jokes, and I told one at the beginning. It made everyone laugh, and I felt better. I think jokes help with nerves.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.5,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.4,
+        "surprise": 0.3,
+        "anticipation": 0.3,
+        "trust": 0.6,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["presentation", "class", "nervous", "shaking", "jokes", "laughed", "nerves"]
+    },
+    {
+      "page": 250,
+      "date": "1998-09-02",
+      "entry": "I'm learning about colors in art class. Red, blue, yellow. I mixed red and yellow to make orange. It looks so bright. I told my art teacher a joke about colors, and she said it was 'vibrant'. I like art class. It's fun and colorful.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["colors", "art class", "red", "blue", "yellow", "orange", "bright", "joke", "vibrant"]
+    },
+    {
+      "page": 251,
+      "date": "1998-09-03",
+      "entry": "I had a bad dream last night. I was lost in a big, dark forest. I was so scared. I woke up crying. Mom came and comforted me. She told me it was just a dream. I wish I didn't have such scary dreams. They make me feel so anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.3,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["bad dream", "lost", "dark forest", "scared", "crying", "comforted", "anxious"]
+    },
+    {
+      "page": 252,
+      "date": "1998-09-04",
+      "entry": "Today was much better. I played with Emily at recess. We pretended to be astronauts exploring a new planet. It was so exciting! I told her a joke about aliens, and she laughed so hard she snorted. I love making her laugh.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["recess", "astronauts", "new planet", "exciting", "aliens", "joke", "laughed", "snorted"]
+    },
+    {
+      "page": 253,
+      "date": "1998-09-05",
+      "entry": "I'm learning about weather. Rain, sun, snow. I like sunny days the best. Rainy days make me feel a bit gloomy. I told my umbrella a joke, but it just dripped. Umbrellas are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["weather", "rain", "sun", "snow", "gloomy", "umbrella", "joke"]
+    },
+    {
+      "page": 254,
+      "date": "1998-09-06",
+      "entry": "We had a school play today. I was a tree. I had to stand very still. It was a little boring, but I liked wearing the costume. I told Emily a joke about a tree, and she said it was 'outstanding'. I think she's the best joke critic.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.6,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.3,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["school play", "tree", "costume", "boring", "joke", "outstanding", "friend"]
+    },
+    {
+      "page": 255,
+      "date": "1998-09-07",
+      "entry": "I'm learning about different countries. France, Italy, Japan. It's so interesting to learn about other places. I told my dad a joke about a country, and he said it was 'foreign' to him, but he still laughed. I like learning new things.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["countries", "France", "Italy", "Japan", "joke", "foreign", "learning"]
+    },
+    {
+      "page": 256,
+      "date": "1998-09-08",
+      "entry": "I'm feeling a bit anxious about a test next week. I hope I do well. I've been studying, but I'm still worried I'll forget everything. I wish tests weren't so stressful. I told my pencil a joke, but it didn't help.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.6,
+        "surprise": 0.1,
+        "anticipation": 0.3,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.4
+      },
+      "keywords": ["anxious", "test", "studying", "worried", "stressful", "pencil", "joke"]
+    },
+    {
+      "page": 257,
+      "date": "1998-09-09",
+      "entry": "I got my test back! I got an A! I'm so happy and proud! I studied really hard. I told Mom and Dad the good news, and they were so happy too. I told them a joke about getting an A, and they laughed. It was a great day.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.9,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.3,
+        "trust": 0.9,
+        "disgust": 0.0,
+        "neutral": 0.1
+      },
+      "keywords": ["test", "A", "happy", "proud", "studied", "good news", "joke", "laughed"]
+    },
+    {
+      "page": 258,
+      "date": "1998-09-10",
+      "entry": "I'm learning about music. Different instruments. The piano, the guitar, the drums. I like the drums the best. They are so loud and exciting. I told Emily a joke about music, and she said it was 'note-worthy'. I think she's a great friend.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.4,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["music", "instruments", "piano", "guitar", "drums", "loud", "exciting", "joke", "note-worthy", "friend"]
+    },
+    {
+      "page": 259,
+      "date": "1998-09-11",
+      "entry": "I had a little argument with my brother today. He took my toy car. I got really mad. He got mad too. We yelled at each other. I wish we didn't fight. It makes me feel upset. I don't like fighting with my brother.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.0,
+        "sadness": 0.3,
+        "anger": 0.5,
+        "fear": 0.0,
+        "surprise": 0.0,
+        "anticipation": 0.1,
+        "trust": 0.2,
+        "disgust": 0.1,
+        "neutral": 0.4
+      },
+      "keywords": ["argument", "brother", "toy car", "mad", "yelled", "upset", "fighting"]
+    },
+    {
+      "page": 260,
+      "date": "1998-09-12",
+      "entry": "My brother and I made up. We apologized to each other. He gave me my toy car back. We played together. I told him a joke about brothers, and he laughed. It's good to have a brother, even if we fight sometimes. I love him.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.2,
+        "anticipation": 0.3,
+        "trust": 0.9,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["made up", "apologized", "toy car", "played together", "joke", "laughed", "brother", "love"]
+    },
+    {
+      "page": 261,
+      "date": "1998-09-13",
+      "entry": "I'm learning about fairy tales. Cinderella, Snow White, Sleeping Beauty. They are so magical. I wish I could live in a fairy tale. I told Mom a joke about a fairy tale, and she said it was 'enchanting'. I love fairy tales.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["fairy tales", "Cinderella", "Snow White", "magical", "joke", "enchanting"]
+    },
+    {
+      "page": 262,
+      "date": "1998-09-14",
+      "entry": "I'm feeling a bit anxious about the school play auditions. What if I don't get a part? What if I forget my lines? I wish I was more confident. I told my script a joke, but it didn't laugh. Scripts are not very funny.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.6,
+        "surprise": 0.1,
+        "anticipation": 0.3,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.4
+      },
+      "keywords": ["anxious", "school play", "auditions", "lines", "confident", "script", "joke"]
+    },
+    {
+      "page": 263,
+      "date": "1998-09-15",
+      "entry": "I got a part in the school play! I'm a talking animal! I'm so excited! I practiced my lines with Emily. We made up a joke for our characters. I think it will be funny. I love acting. It's so much fun.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.9,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.5,
+        "anticipation": 0.7,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.1
+      },
+      "keywords": ["school play", "part", "talking animal", "excited", "lines", "joke", "acting", "fun"]
+    },
+    {
+      "page": 264,
+      "date": "1998-09-16",
+      "entry": "I'm learning about different kinds of food. Fruits, vegetables, grains. I like eating fruits the best. They are sweet and healthy. I told my apple a joke, but it just sat there. Apples are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["food", "fruits", "vegetables", "grains", "apple", "joke"]
+    },
+    {
+      "page": 265,
+      "date": "1998-09-17",
+      "entry": "Today we had a surprise quiz in science. I was a little worried, but I think I did okay. I remembered some of the things we learned. I told Emily a joke about quizzes, and she said it was 'testing' her patience. I think she's very funny.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.5,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.2,
+        "surprise": 0.3,
+        "anticipation": 0.2,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["surprise quiz", "science", "worried", "okay", "joke", "testing", "patience"]
+    },
+    {
+      "page": 266,
+      "date": "1998-09-18",
+      "entry": "I'm learning about different jobs. Doctor, teacher, firefighter. I want to be a comedian when I grow up. I want to make people laugh. I told my dad a joke about jobs, and he said it was 'hiring' me. I think he liked it.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["jobs", "doctor", "teacher", "firefighter", "comedian", "joke", "hiring"]
+    },
+    {
+      "page": 267,
+      "date": "1998-09-19",
+      "entry": "I had a bad dream last night. I was being chased by a giant broccoli. It was so scary! I woke up screaming. Mom came and hugged me. She said broccoli is good for you. I still don't like it. It makes me feel anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.2,
+        "neutral": 0.3
+      },
+      "keywords": ["bad dream", "broccoli", "scary", "screaming", "hugged", "anxious"]
+    },
+    {
+      "page": 268,
+      "date": "1998-09-20",
+      "entry": "Today was much better. I played with Emily at recess. We pretended to be detectives solving a mystery. It was so fun! I told her a joke about a detective, and she laughed so hard she cried. I love making her laugh.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["recess", "detectives", "mystery", "fun", "joke", "laughed", "cried"]
+    },
+    {
+      "page": 269,
+      "date": "1998-09-21",
+      "entry": "I'm learning about different kinds of animals. Mammals, reptiles, birds. I like birds the best. They can fly! I told my bird feeder a joke, but it just attracted more birds. Birds are not very good at telling jokes.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["animals", "mammals", "reptiles", "birds", "fly", "bird feeder", "joke"]
+    },
+    {
+      "page": 270,
+      "date": "1998-09-22",
+      "entry": "We had a talent show at school. I wanted to tell jokes, but I was too nervous. I ended up singing a song instead. It went okay. I told Emily a joke about singing, and she said it was 'pitch perfect'. I think she's the best joke critic.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.6,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.3,
+        "surprise": 0.2,
+        "anticipation": 0.3,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["talent show", "jokes", "nervous", "singing", "song", "joke", "pitch perfect"]
+    },
+    {
+      "page": 271,
+      "date": "1998-09-23",
+      "entry": "I'm learning about different kinds of transportation. Cars, trains, planes. I like planes the best. They fly so high! I told my toy plane a joke, but it just sat there. Toy planes are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["transportation", "cars", "trains", "planes", "fly", "toy plane", "joke"]
+    },
+    {
+      "page": 272,
+      "date": "1998-09-24",
+      "entry": "Today we had a surprise visitor at school. It was a clown! He made balloon animals and told jokes. He was so funny! I told him a joke about a clown, and he laughed so hard he almost fell over! It was a great day.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.5,
+        "anticipation": 0.4,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["surprise visitor", "clown", "balloon animals", "jokes", "funny", "joke", "laughed"]
+    },
+    {
+      "page": 273,
+      "date": "1998-09-25",
+      "entry": "I'm learning about different kinds of sports. Soccer, basketball, baseball. I like soccer the best. It's fun to kick the ball. I told my soccer ball a joke, but it just rolled away. Soccer balls are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["sports", "soccer", "basketball", "baseball", "kick the ball", "soccer ball", "joke"]
+    },
+    {
+      "page": 274,
+      "date": "1998-09-26",
+      "entry": "I had a bad dream last night. I was stuck in a giant maze. I couldn't find my way out. I was so scared. I woke up crying. Mom came and hugged me. She said it was just a dream. I wish I didn't have such scary dreams. They make me feel so anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.3,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.3
+      },
+      "keywords": ["bad dream", "maze", "lost", "scared", "crying", "hugged", "anxious"]
+    },
+    {
+      "page": 275,
+      "date": "1998-09-27",
+      "entry": "Today was much better. I played with Emily at recess. We pretended to be pirates searching for treasure. It was so exciting! I told her a joke about a pirate, and she laughed so hard she snorted. I love making her laugh.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["recess", "pirates", "treasure", "exciting", "joke", "laughed", "snorted"]
+    },
+    {
+      "page": 276,
+      "date": "1998-09-28",
+      "entry": "I'm learning about different kinds of jobs. Chef, artist, musician. I want to be a comedian when I grow up. I want to make people laugh. I told my dad a joke about jobs, and he said it was 'hiring' me. I think he liked it.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["jobs", "chef", "artist", "musician", "comedian", "joke", "hiring"]
+    },
+    {
+      "page": 277,
+      "date": "1998-09-29",
+      "entry": "I'm learning about different kinds of animals. Farm animals, wild animals, pets. I like pets the best. They are so cuddly. I told my cat a joke, but she just purred. Cats are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["animals", "farm animals", "wild animals", "pets", "cuddly", "cat", "joke"]
+    },
+    {
+      "page": 278,
+      "date": "1998-09-30",
+      "entry": "Today we had a surprise visitor at school. It was a magician! He made things disappear and reappear. It was so amazing! I told him a joke about magic, and he said it was 'spellbinding'. I love magic shows.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.6,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["surprise visitor", "magician", "disappear", "reappear", "amazing", "joke", "spellbinding"]
+    },
+    {
+      "page": 279,
+      "date": "1998-10-01",
+      "entry": "I'm learning about different kinds of jobs. Scientist, artist, writer. I want to be a comedian when I grow up. I want to make people laugh. I told my dad a joke about jobs, and he said it was 'hiring' me. I think he liked it.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["jobs", "scientist", "artist", "writer", "comedian", "joke", "hiring"]
+    },
+    {
+      "page": 280,
+      "date": "1998-10-02",
+      "entry": "I had a bad dream last night. I was being chased by a giant pencil. It was so scary! I woke up screaming. Mom came and hugged me. She said pencils are useful. I still don't like them chasing me. They make me feel anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.1,
+        "neutral": 0.3
+      },
+      "keywords": ["bad dream", "pencil", "scary", "screaming", "hugged", "anxious"]
+    },
+    {
+      "page": 281,
+      "date": "1998-10-03",
+      "entry": "Today was much better. I played with Emily at recess. We pretended to be astronauts exploring a new planet. It was so exciting! I told her a joke about aliens, and she laughed so hard she cried. I love making her laugh.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["recess", "astronauts", "new planet", "exciting", "aliens", "joke", "laughed", "cried"]
+    },
+    {
+      "page": 282,
+      "date": "1998-10-04",
+      "entry": "I'm learning about different kinds of animals. Farm animals, wild animals, pets. I like pets the best. They are so cuddly. I told my dog a joke, but he just wagged his tail. Dogs are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["animals", "farm animals", "wild animals", "pets", "cuddly", "dog", "joke"]
+    },
+    {
+      "page": 283,
+      "date": "1998-10-05",
+      "entry": "Today we had a surprise visitor at school. It was a storyteller! She told amazing stories about brave knights and magical creatures. I was so captivated. I told her a joke about a knight, and she said it was 'heroic'. I love stories.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.5,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["surprise visitor", "storyteller", "knights", "magical creatures", "captivated", "joke", "heroic"]
+    },
+    {
+      "page": 284,
+      "date": "1998-10-06",
+      "entry": "I'm learning about different kinds of jobs. Chef, artist, musician. I want to be a comedian when I grow up. I want to make people laugh. I told my dad a joke about jobs, and he said it was 'hiring' me. I think he liked it.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["jobs", "chef", "artist", "musician", "comedian", "joke", "hiring"]
+    },
+    {
+      "page": 285,
+      "date": "1998-10-07",
+      "entry": "I had a bad dream last night. I was stuck in a giant library. All the books were falling on me. I was so scared. I woke up crying. Mom came and hugged me. She said books are good. I still don't like them falling on me. They make me feel anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.3,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.1,
+        "neutral": 0.3
+      },
+      "keywords": ["bad dream", "library", "books falling", "scared", "crying", "hugged", "anxious"]
+    },
+    {
+      "page": 286,
+      "date": "1998-10-08",
+      "entry": "Today was much better. I played with Emily at recess. We pretended to be astronauts exploring a new planet. It was so exciting! I told her a joke about aliens, and she laughed so hard she snorted. I love making her laugh.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["recess", "astronauts", "new planet", "exciting", "aliens", "joke", "laughed", "snorted"]
+    },
+    {
+      "page": 287,
+      "date": "1998-10-09",
+      "entry": "I'm learning about different kinds of animals. Farm animals, wild animals, pets. I like pets the best. They are so cuddly. I told my hamster a joke, but he just ran on his wheel. Hamsters are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["animals", "farm animals", "wild animals", "pets", "cuddly", "hamster", "joke"]
+    },
+    {
+      "page": 288,
+      "date": "1998-10-10",
+      "entry": "Today we had a surprise visitor at school. It was a scientist! She showed us cool experiments. She made things fizz and pop. It was so exciting! I told her a joke about science, and she said it was 'elementary'. I love science.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.5,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["surprise visitor", "scientist", "experiments", "fizz", "pop", "exciting", "joke", "elementary"]
+    },
+    {
+      "page": 289,
+      "date": "1998-10-11",
+      "entry": "I'm learning about different kinds of jobs. Chef, artist, musician. I want to be a comedian when I grow up. I want to make people laugh. I told my dad a joke about jobs, and he said it was 'hiring' me. I think he liked it.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["jobs", "chef", "artist", "musician", "comedian", "joke", "hiring"]
+    },
+    {
+      "page": 290,
+      "date": "1998-10-12",
+      "entry": "I had a bad dream last night. I was stuck in a giant candy store. All the candy was melting. It was so sticky and gross. I woke up crying. Mom came and hugged me. She said candy is good. I still don't like it melting. It makes me feel anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.8,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.3,
+        "neutral": 0.3
+      },
+      "keywords": ["bad dream", "candy store", "melting candy", "sticky", "gross", "crying", "anxious"]
+    },
+    {
+      "page": 291,
+      "date": "1998-10-13",
+      "entry": "Today was much better. I played with Emily at recess. We pretended to be astronauts exploring a new planet. It was so exciting! I told her a joke about aliens, and she laughed so hard she cried. I love making her laugh.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["recess", "astronauts", "new planet", "exciting", "aliens", "joke", "laughed", "cried"]
+    },
+    {
+      "page": 292,
+      "date": "1998-10-14",
+      "entry": "I'm learning about different kinds of animals. Farm animals, wild animals, pets. I like pets the best. They are so cuddly. I told my goldfish a joke, but it just swam in circles. Goldfish are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["animals", "farm animals", "wild animals", "pets", "cuddly", "goldfish", "joke"]
+    },
+    {
+      "page": 293,
+      "date": "1998-10-15",
+      "entry": "Today we had a surprise visitor at school. It was a chef! He showed us how to make cookies. They smelled so good! It was so delicious! I told him a joke about cookies, and he said it was 'crumb-y' but he still laughed. I love food.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.5,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["surprise visitor", "chef", "cookies", "delicious", "joke", "crumb-y", "laughed"]
+    },
+    {
+      "page": 294,
+      "date": "1998-10-16",
+      "entry": "I'm learning about different kinds of jobs. Doctor, teacher, firefighter. I want to be a comedian when I grow up. I want to make people laugh. I told my dad a joke about jobs, and he said it was 'hiring' me. I think he liked it.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["jobs", "doctor", "teacher", "firefighter", "comedian", "joke", "hiring"]
+    },
+    {
+      "page": 295,
+      "date": "1998-10-17",
+      "entry": "I had a bad dream last night. I was stuck in a giant shoe. It smelled so bad. I was so scared. I woke up crying. Mom came and hugged me. She said shoes protect our feet. I still don't like being stuck in them. They make me feel anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.3,
+        "neutral": 0.3
+      },
+      "keywords": ["bad dream", "shoe", "smelled bad", "scared", "crying", "anxious"]
+    },
+    {
+      "page": 296,
+      "date": "1998-10-18",
+      "entry": "Today was much better. I played with Emily at recess. We pretended to be astronauts exploring a new planet. It was so exciting! I told her a joke about aliens, and she laughed so hard she snorted. I love making her laugh.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.4,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["recess", "astronauts", "new planet", "exciting", "aliens", "joke", "laughed", "snorted"]
+    },
+    {
+      "page": 297,
+      "date": "1998-10-19",
+      "entry": "I'm learning about different kinds of animals. Farm animals, wild animals, pets. I like pets the best. They are so cuddly. I told my turtle a joke, but it just hid in its shell. Turtles are not very good joke tellers.",
+      "sentiment": {
+        "overall": "neutral",
+        "joy": 0.3,
+        "sadness": 0.1,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.4,
+        "disgust": 0.0,
+        "neutral": 0.6
+      },
+      "keywords": ["animals", "farm animals", "wild animals", "pets", "cuddly", "turtle", "joke"]
+    },
+    {
+      "page": 298,
+      "date": "1998-10-20",
+      "entry": "Today we had a surprise visitor at school. It was an artist! She showed us how to paint with watercolors. The colors were so bright! It was so beautiful! I told her a joke about painting, and she said it was 'masterful'. I love art.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.8,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.5,
+        "anticipation": 0.4,
+        "trust": 0.7,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["surprise visitor", "artist", "watercolors", "bright", "beautiful", "joke", "masterful"]
+    },
+    {
+      "page": 299,
+      "date": "1998-10-21",
+      "entry": "I'm learning about different kinds of jobs. Chef, artist, musician. I want to be a comedian when I grow up. I want to make people laugh. I told my dad a joke about jobs, and he said it was 'hiring' me. I think he liked it.",
+      "sentiment": {
+        "overall": "positive",
+        "joy": 0.7,
+        "sadness": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "surprise": 0.3,
+        "anticipation": 0.5,
+        "trust": 0.8,
+        "disgust": 0.0,
+        "neutral": 0.2
+      },
+      "keywords": ["jobs", "chef", "artist", "musician", "comedian", "joke", "hiring"]
+    },
+    {
+      "page": 300,
+      "date": "1998-10-22",
+      "entry": "I had a bad dream last night. I was stuck in a giant clock. All the hands were spinning really fast. I was so scared. I woke up crying. Mom came and hugged me. She said time flies when you're having fun. I still don't like being stuck in clocks. They make me feel anxious.",
+      "sentiment": {
+        "overall": "negative",
+        "joy": 0.1,
+        "sadness": 0.2,
+        "anger": 0.0,
+        "fear": 0.9,
+        "surprise": 0.1,
+        "anticipation": 0.1,
+        "trust": 0.7,
+        "disgust": 0.1,
+        "neutral": 0.3
+      },
+      "keywords": ["bad dream", "clock", "spinning hands", "scared", "crying", "anxious"]
+    }
+  ]
+}
