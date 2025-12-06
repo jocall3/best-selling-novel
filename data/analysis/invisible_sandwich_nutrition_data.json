@@ -1,0 +1,70 @@
+{
+  "page_range": "201-300",
+  "file_path": "data/analysis/invisible_sandwich_nutrition_data.json",
+  "dataset_name": "InvisibleSandwichNutritionDebateSet",
+  "description": "Conflicting nutritional breakdowns for the theoretical 'Invisible Sandwich,' designed to test truth extraction algorithms under contradictory evidence.",
+  "source_methodology": "Simulated Contradictory Modeling (SCM)",
+  "data_points": [
+    {
+      "id": "ISN-201A",
+      "source": "Lab Report Alpha (Dr. Elara Vance)",
+      "calories": 450,
+      "protein_g": 22.5,
+      "fat_g": 18.0,
+      "carbs_g": 55.0,
+      "sodium_mg": 850,
+      "fiber_g": 4.2,
+      "notes": "Assumes standard atmospheric bread density and quantum entanglement of filling."
+    },
+    {
+      "id": "ISN-201B",
+      "source": "Consumer Watchdog Beta (Project Chimera)",
+      "calories": 120,
+      "protein_g": 5.1,
+      "fat_g": 0.5,
+      "carbs_g": 28.0,
+      "sodium_mg": 150,
+      "fiber_g": 1.1,
+      "notes": "Calculated based on zero-point energy absorption rate; suggests near-zero mass."
+    },
+    {
+      "id": "ISN-215X",
+      "source": "Theoretical Physics Review, Vol 45",
+      "calories": "Undefined (Potential for infinite energy release)",
+      "protein_g": "N/A (Non-baryonic components)",
+      "fat_g": "Negligible",
+      "carbs_g": "Complex (String theory derived)",
+      "sodium_mg": 0,
+      "fiber_g": 0,
+      "notes": "Focuses on the structural integrity rather than metabolic impact."
+    },
+    {
+      "id": "ISN-250C",
+      "source": "Culinary Institute Gamma (Replication Attempt 3)",
+      "calories": 310,
+      "protein_g": 15.0,
+      "fat_g": 12.0,
+      "carbs_g": 38.0,
+      "sodium_mg": 620,
+      "fiber_g": 3.5,
+      "notes": "Assumes the sandwich is 'mostly' air, but the air has been seasoned."
+    },
+    {
+      "id": "ISN-299Z",
+      "source": "Archived Memo Delta (Internal Audit)",
+      "calories": 5000,
+      "protein_g": 150,
+      "fat_g": 300,
+      "carbs_g": 400,
+      "sodium_mg": 10000,
+      "fiber_g": 50,
+      "notes": "This entry is deliberately erroneous, representing a worst-case scenario where the 'invisibility' is achieved via extreme caloric density."
+    }
+  ],
+  "metadata": {
+    "page_start": 201,
+    "page_end": 300,
+    "generation_timestamp": "2024-05-15T10:30:00Z",
+    "conflict_level": "High"
+  }
+}
